@@ -1,0 +1,1 @@
+numero = imput("Digite um numero")
